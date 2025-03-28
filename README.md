@@ -2,9 +2,6 @@
   
 ## Hi there, soy Marco Chiribe👋
 
-<!
-**Marcoarielchiribe/MarcoArielChiribe** es un repositorio ✨ _especial_ ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub.
-
 Sobre mi:
 - 🔭 Actualmente estoy trabajando en mis proyectos 
 - 🌱 Actualmente estoy aprendiendo 
@@ -14,7 +11,7 @@ Sobre mi:
 - ⚡ Dato curioso: ...
 -->
 
-### My skills include
+### Mis habilidades
 
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
