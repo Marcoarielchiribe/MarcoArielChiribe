@@ -3,9 +3,9 @@
 ## Hola, soy Marco Chiribe👋
 
 Sobre mi:
-- 🔭 Actualmente estoy trabajando en mis proyectos 
-- 🌱 Actualmente estoy aprendiendo
-- 👯 Busco colaborar en proyectos de administracion de bases de datos
+- 🔭 Actualmente estoy trabajando en mis proyectos sql
+- 🌱 Actualmente estoy aprendiendo a aprender
+- 👥 Busco colaborar en proyectos de administracion de bases de datos
 - 📫 Cómo contactarme: <a href ="marcochiribe@gmail.com">![Gmail Badge](https://img.shields.io/badge/-marcochiribe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcochiribe@gmail.com)</a>
 
 
