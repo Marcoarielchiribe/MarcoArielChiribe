@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
   
-## Hi there, soy Marco Chiribe👋
+## Hola, soy Marco Chiribe👋
 
 Sobre mi:
 - 🔭 Actualmente estoy trabajando en mis proyectos 
@@ -9,13 +9,12 @@ Sobre mi:
 - 🤔 Estoy buscando ayuda con...
 - 📫 Cómo contactarme: <a href ="marcochiribe@gmail.com">![Gmail Badge](https://img.shields.io/badge/-marcochiribe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcochiribe@gmail.com)</a>
 - ⚡ Dato curioso: ...
--->
+
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-### Mi pila tecnologica
+## Mi pila tecnologica
 
-<p align="left"> 
 
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
