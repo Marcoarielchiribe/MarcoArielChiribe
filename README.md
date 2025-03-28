@@ -11,7 +11,9 @@ Sobre mi:
 - ⚡ Dato curioso: ...
 -->
 
-### Mis habilidades
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+### Mi pila tecnologica
 
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
