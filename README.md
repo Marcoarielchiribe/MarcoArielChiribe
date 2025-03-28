@@ -7,7 +7,6 @@ Sobre mi:
 - 🌱 Actualmente estoy aprendiendo
 - 👯 Busco colaborar en proyectos de administracion de bases de datos
 - 📫 Cómo contactarme: <a href ="marcochiribe@gmail.com">![Gmail Badge](https://img.shields.io/badge/-marcochiribe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcochiribe@gmail.com)</a>
-- ⚡ Dato curioso: ...
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
