@@ -18,6 +18,6 @@ Sobre mi:
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" /><p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/> </p>
+	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" /><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/> </p>
 
 <br>
