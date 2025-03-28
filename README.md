@@ -2,7 +2,7 @@
   
 ## Hola, soy Marco Chiribe👋
 
-## Sobre mi:
+# Sobre mi:
 - 🔭 Actualmente estoy trabajando en mis proyectos sql
 - 🌱 Actualmente estoy aprendiendo mas en sql y pyhton 
 - 📈 Busco colaborar en proyectos de administracion de bases de datos
