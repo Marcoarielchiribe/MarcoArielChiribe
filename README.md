@@ -11,11 +11,6 @@
 </a>
 
 
-</a>
-<a href="https://www.linkedin.com/in/marco-chiribe-981547283">
-<img align="left" alt="Shibin's LinkedIN" width="22px" 					 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
 
