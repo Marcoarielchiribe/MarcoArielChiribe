@@ -6,7 +6,8 @@
 - 🔭 Actualmente estoy trabajando en mis proyectos sql
 - 🌱 Actualmente estoy aprendiendo mas en sql y pyhton 
 - 📈 Busco colaborar en proyectos de administracion de bases de datos
-- 📫 Cómo contactarme: <a href="https://www.linkedin.com/in/marcochiribe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+- 📫 Cómo contactarme: [![Gmail Badge](https://img.shields.io/badge/-marcochiribe@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcochiribe@gmail.com)](mailto:marcochiribe@gmail.com.in)
+## ⚡ Domains:
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
 
