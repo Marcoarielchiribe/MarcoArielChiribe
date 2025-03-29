@@ -6,7 +6,7 @@
 - 🔭 Actualmente estoy trabajando en mis proyectos sql
 - 🌱 Actualmente estoy aprendiendo mas en sql y pyhton 
 - 📈 Busco colaborar en proyectos de administracion de bases de datos
-- 📫 Cómo contactarme: [![Gmail Badge](https://img.shields.io/badge/-marcochiribe@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcochiribe@gmail.com)](mailto:marcochiribe@gmail.com.in)
+- 📫 Cómo contactarme: [![Gmail Badge](https://img.shields.io/badge/-marcochiribe@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcochiribe@gmail.com)](mailto:marcochiribe@gmail.com)
 ## ⚡ Domains:
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
