@@ -8,7 +8,7 @@
 - 📈 Busco colaborar en proyectos de administracion de bases de datos
 - 📫 Cómo contactarme: <a href ="marcochiribe@gmail.com">![Gmail Badge](https://img.shields.io/badge/-marcochiribe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcochiribe@gmail.com)</a>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
 
 
 ## 🛠️Mis tecnologias
