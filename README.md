@@ -2,7 +2,7 @@
   
 ## Hola, soy Marco Chiribe👋
 
-Sobre mi:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi:
 - 🔭 Actualmente estoy trabajando en mis proyectos sql
 - 🌱 Actualmente estoy aprendiendo mas en sql y pyhton 
 - 📈 Busco colaborar en proyectos de administracion de bases de datos
