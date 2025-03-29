@@ -6,7 +6,7 @@
 - 🔭 Actualmente estoy trabajando en mis proyectos sql
 - 🌱 Actualmente estoy aprendiendo mas en sql y pyhton 
 - 📈 Busco colaborar en proyectos de administracion de bases de datos
-	- 📫 Cómo contactarme: <a href="https://www.linkedin.com/in/marcochiribe/" target="_blank">
+- 📫 Cómo contactarme: <a href="https://www.linkedin.com/in/marcochiribe/" target="_blank">
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
 
