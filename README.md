@@ -7,7 +7,7 @@
 - 🌱 Actualmente estoy aprendiendo mas en sql y pyhton 
 - 📈 Busco colaborar en proyectos de administracion de bases de datos
 - 📫 Cómo contactarme:
-  [! [gmail_badge]](mailto:marcochiribe@gmail.com) [! [linkedin_badge]][linkedIn]  ! [visitantes](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
+  [![gmail_badge]](mailto:marcochiribe@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdeboute.mdeboute)
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
 
