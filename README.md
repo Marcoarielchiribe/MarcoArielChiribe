@@ -9,7 +9,7 @@
 - 📫 Cómo contactarme: [![Gmail Badge](https://img.shields.io/badge/-marcochiribe@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcochiribe@gmail.com)](mailto:marcochiribe@gmail.com)
   			<a href="https://www.linkedin.com/in/marco-chiribe-981547283" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/FederiComoglio" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> 
+
 
 </a>
 <a href="https://www.linkedin.com/in/marco-chiribe-981547283">
