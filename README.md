@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi:
 - 🔭 Actualmente estoy trabajando en mis proyectos sql
-- 🌱 Actualmente estoy aprendiendo mas en sql y pyhton 
+- 🌱 Actualmente estoy aprendiendo mas y profundizando en sql y python
 - 📈 Busco colaborar en proyectos de administracion de bases de datos
 - 📫 Cómo contactarme: [![Gmail Badge](https://img.shields.io/badge/-marcochiribe@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcochiribe@gmail.com)](mailto:marcochiribe@gmail.com)
   			<a href="https://www.linkedin.com/in/marco-chiribe-981547283" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
