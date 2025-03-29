@@ -20,3 +20,5 @@
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" /><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/> </p>
 
 <br>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
