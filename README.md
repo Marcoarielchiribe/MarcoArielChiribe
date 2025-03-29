@@ -7,9 +7,10 @@
 - 🌱 Actualmente estoy aprendiendo mas en sql y pyhton 
 - 📈 Busco colaborar en proyectos de administracion de bases de datos
 - 📫 Cómo contactarme: [![Gmail Badge](https://img.shields.io/badge/-marcochiribe@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcochiribe@gmail.com)](mailto:marcochiribe@gmail.com)
- 			 <a href="https://www.linkedin.com/in/marco-chiribe-981547283">
-                         <img align="left" alt="Shibin's LinkedIN" width="22px" 
-                         src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ 			 </a>
+			<a href="https://www.linkedin.com/in/marco-chiribe-981547283">
+  			<img align="left" alt="Shibin's LinkedIN" width="22px" 					 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
