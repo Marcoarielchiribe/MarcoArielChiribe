@@ -22,7 +22,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 	<img height=50px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
 	<img height=70px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
-	<img height=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
+	<img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
 	<img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/> </p>
 
 <br>
