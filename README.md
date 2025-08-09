@@ -20,7 +20,7 @@
 
 <p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
+	<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
 	<img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/> </p>
 
