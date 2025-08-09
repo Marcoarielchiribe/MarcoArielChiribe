@@ -21,7 +21,8 @@
 <p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" /><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/> </p>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
+	src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/> </p>
 
 <br>
 
